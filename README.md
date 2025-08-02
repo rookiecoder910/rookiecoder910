@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/N8N-%23EF6C00.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
-
+---
 
 ### 📫 Reach me at:
 <div>
 <p align="center"> <a href="mailto:manasydv123@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://your-portfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://www.linkedin.com/in/manas-kumar-yadav-26013a287/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 </div>
-
+---
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical" />
