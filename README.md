@@ -8,7 +8,7 @@
 ---
 
 ### 🔧 Languages & Tools
-<p>
+<p align="center>
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
@@ -19,12 +19,13 @@
 ---
 
 ### 📫 Reach me at:
+<p align="center">
 - 📧 [manasydv123@gmail.com](mailto:manasydv123@gmail.com)
 - 🌐 [Mario game based portfolio](https://your-portfolio.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/manas-kumar-yadav-26013a287/)
 
 ---
-
+</p>
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical" />
