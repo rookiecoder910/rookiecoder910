@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas Kumar </h1>
+<h1 align="center">Hi 👋, I'm Manas Kumar</h1>
 <h3 align="center">🚀 Passionate Android Developer | Kotlin Enthusiast</h3>
 
 <p align="center">
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/N8N-%23EF6C00.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
+---
+
 ### 📫 Reach me at:
 - 📧 [manasydv123@gmail.com](mailto:manasydv123@gmail.com)
 - 🌐 [Mario game based portfolio](https://your-portfolio.com)
@@ -25,7 +27,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical" />
 </p>
-![snake gif](https://github.com/rookiecoder910/snk/blob/output/github-contribution-grid-snake.gif?raw=true)
+
+---
+
+### 🐍 Watch my GitHub contribution Snake
+<p align="center">
+  <img src="https://github.com/rookiecoder910/snk/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake gif" />
+</p>
