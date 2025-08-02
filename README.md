@@ -1,40 +1,42 @@
 <h1 align="center">Hi 👋, I'm Manas Kumar Yadav</h1>
 <h3 align="center">🚀 Passionate Android Developer | Kotlin Enthusiast</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Kotlin,+Jetpack+Compose,+N8N+Automation;Let’s+build+something+awesome+🚀" />
-</p>
+</div>
 
 ---
 
 ### 🔧 Languages & Tools
-<p align="center>
+<div align="center">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/N8N-%23EF6C00.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
+</div>
 
 ---
 
 ### 📫 Reach me at:
-<p align="center">
-- 📧 [manasydv123@gmail.com](mailto:manasydv123@gmail.com)
-- 🌐 [Mario game based portfolio](https://your-portfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/manas-kumar-yadav-26013a287/)
+<div align="center">
+  <a href="mailto:manasydv123@gmail.com">📧 manasydv123@gmail.com</a><br/>
+  <a href="https://your-portfolio.com">🌐 Mario game based portfolio</a><br/>
+  <a href="https://www.linkedin.com/in/manas-kumar-yadav-26013a287/">💼 LinkedIn</a>
+</div>
 
 ---
-</p>
+
 ### 📊 GitHub Stats:
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical" />
-</p>
+</div>
 
 ---
 
 ### 🐍 Watch my GitHub contribution Snake
-<p align="center">
-  <img src="https://github.com/rookiecoder910/snk/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake gif" />
-</p>
+<div align="center">
+  <img src="https://github.com/rookiecoder910/snk/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake gif"/>
+</div>
