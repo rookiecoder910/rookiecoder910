@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manas Kumar</h1>
+<h1 align="center">Hi 👋, I'm Manas Kumar Yadav</h1>
 <h3 align="center">🚀 Passionate Android Developer | Kotlin Enthusiast</h3>
 
 <p align="center">
