@@ -40,7 +40,8 @@
 
 ### 📊 GitHub Stats
 <div align="center" style="padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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" alt="GitHub Stats"/>
+
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
