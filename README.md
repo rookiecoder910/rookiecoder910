@@ -30,28 +30,55 @@
 
 <hr/>
 
-### 🔧 Languages & Tools
-<div align="center" style="padding: 10px;">
-  
-  <!-- Languages -->
-  <h4>Languages</h4>
+<hr/>
+
+### 🚀 Languages
+<div align="center">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
-  <!-- Frameworks -->
-  <h4>Frameworks & Libraries</h4>
+---
+
+### 📚 Frameworks & Libraries
+<div align="center">
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</div>
 
-  <!-- Tools -->
-  <h4>Tools</h4>
+---
+
+### 🛠 Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/N8N-%23EF6C00.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
+
+---
+
+### 🗄 Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+---
+
+### 🧠 Soft Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teamwork-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adaptability-f39c12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quick%20Learner-9b59b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-2ecc71?style=for-the-badge"/>
+</div>
+
 
 <hr/>
 
