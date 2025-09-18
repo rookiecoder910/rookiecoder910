@@ -25,12 +25,12 @@
 <div align="center" style="padding: 10px;">
   <img src="https://github-profile-trophy.vercel.app/?username=rookiecoder910&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
   <br/>
-  <img src="https://github-profile-achievements.vercel.app/api/badge/rookiecoder910?style=for-the-badge" alt="GitHub Achievements"/>
+ 
 </div>
 
 <hr/>
 
-<hr/>
+
 
 ### 🚀 Languages
 <div align="center">
@@ -106,7 +106,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical" alt="Top Languages"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rookiecoder910&theme=radical" alt="GitHub Streak"/>
+
 </div>
 
 <hr/>
