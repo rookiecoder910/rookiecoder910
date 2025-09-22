@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Manas Kumar Yadav</h1>
-<h3 align="center">🚀 Passionate Android Developer | Kotlin Enthusiast</h3>
+<h3 align="center">🚀 Passionate Android Developer | Kotlin & AI Enthusiast</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Android+Development+with+Kotlin;FastAPI+%7C+ML+Integration+%7C+Automation;Let’s+build+something+awesome+🚀" />
@@ -10,27 +10,23 @@
   <img src="https://img.shields.io/github/followers/rookiecoder910?label=Followers&style=for-the-badge&color=brightgreen" alt="followers"/>
 </p>
 
-<hr/>
+---
 
 ### 👨‍💻 About Me
-- 🎓 3rd-year Computer Science student, passionate about **Android Development**  
-- 💡 Love working with **Kotlin, Jetpack Compose, and automation tools**  
-- 🤖 Exploring **FastAPI, ML integrations, and backend systems**  
-- 🚀 Always learning, building, and sharing new ideas  
+- 🎓 3rd-year Computer Science student, passionate about **Android Development & AI**  
+- 💡 Skilled in **Kotlin, Jetpack Compose, FastAPI, and automation tools**  
+- 🤖 Exploring **Machine Learning, Deep Learning, and Computer Vision**  
+- 🚀 Always learning, building, and sharing innovative projects  
 - 🌐 Open to **internship opportunities & collaborations**  
 
-<hr/>
+---
 
 ### 🏆 GitHub Achievements
-<div align="center" style="padding: 10px;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rookiecoder910&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-  <br/>
- 
 </div>
 
-<hr/>
-
-
+---
 
 ### 🚀 Languages
 <div align="center">
@@ -47,7 +43,8 @@
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 ---
@@ -67,7 +64,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
@@ -82,43 +79,49 @@
   <img src="https://img.shields.io/badge/Communication-2ecc71?style=for-the-badge"/>
 </div>
 
-
-<hr/>
+---
 
 ### 📫 Reach Me
-<div align="center" style="padding: 10px;">
+<div align="center">
   <a href="mailto:manasydv123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://rookiecoder910.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/manas-kumar-yadav-26013a287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://codolio.com/profile/asta_coder1202" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-6f42c1?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
+  </a>
 </div>
 
-<hr/>
+---
 
 ### 📊 GitHub Stats
-<div align="center" style="padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical" alt="Top Languages"/>
-  <br/><br/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/>
 </div>
 
-<hr/>
+---
 
 ### 🐍 GitHub Activity Snake
-<div align="center" style="padding: 10px;">
+<div align="center">
   <img src="https://github.com/rookiecoder910/snk/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </div>
 
-<hr/>
+---
 
 ### 📈 GitHub Activity Graph
-<div align="center" style="padding: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rookiecoder910&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rookiecoder910&theme=github_dark&hide_border=true&area=true&color=6A5ACD" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>🌱 Made with ❤️ by Manas Kumar Yadav</h3>
 </div>
