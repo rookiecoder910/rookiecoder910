@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Manas Kumar Yadav</h1>
 <h3 align="center">🚀 Passionate Android Developer | Kotlin & AI Enthusiast</h3>
+<div align="center">
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/17730b84-f4dd-4d57-8465-741432c44527" />
-
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Android+Development+with+Kotlin;FastAPI+%7C+ML+Integration+%7C+Automation;Let’s+build+something+awesome+🚀" />
