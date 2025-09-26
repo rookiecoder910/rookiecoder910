@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Android+Development+with+Kotlin;FastAPI+%7C+ML+Integration+%7C+Automation;Let’s+build+something+awesome+🚀" />
 </div>
 <div align="center">
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/17730b84-f4dd-4d57-8465-741432c44527" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<br><br>
 </div>
 
 
