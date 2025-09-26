@@ -119,7 +119,8 @@
 
 ### 📈 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rookiecoder910&theme=github_dark&hide_border=true&area=true&color=6A5ACD" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rookiecoder910&theme=github-dark&hide_border=true&area=true&line=1E90FF&point=1E90FF" alt="GitHub Activity Graph"/>
+
 </div>
 
 ---
