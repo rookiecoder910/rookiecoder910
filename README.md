@@ -110,7 +110,9 @@
 
 ### 🐍 GitHub Activity Snake
 <div align="center">
-  <img src="https://github.com/rookiecoder910/snk/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 ---
