@@ -125,6 +125,4 @@
 
 ---
 
-<div align="center">
-  <h3>🌱 Made with ❤️ by Manas Kumar Yadav</h3>
-</div>
+
