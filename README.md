@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Manas Kumar Yadav</h1>
 <h3 align="center">🚀 Passionate Android Developer | Kotlin & AI Enthusiast</h3>
 <div align="center">
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/17730b84-f4dd-4d57-8465-741432c44527" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/17730b84-f4dd-4d57-8465-741432c44527" />
 </div>
 
 <div align="center">
