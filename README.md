@@ -121,11 +121,21 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rookiecoder910&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/>
+
+
+<!-- Total Contributions + Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rookiecoder910&theme=dark&hide_border=true&background=0d1117&ring=6A5ACD&fire=FF6F00&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+
+<br><br>
+
+
+
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiecoder910&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=FFFFFF" alt="Top Languages"/>
+
 </div>
 
+ 
 ---
 
 ### 🐍 GitHub Activity Snake
