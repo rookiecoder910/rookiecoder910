@@ -166,7 +166,7 @@ val developer = Developer(
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasydv123@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rookiecoder910.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rookiecoder910.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-kumar-yadav-26013a287/)
 [![Codolio](https://img.shields.io/badge/Codolio-6f42c1?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/asta_coder1202)
 
