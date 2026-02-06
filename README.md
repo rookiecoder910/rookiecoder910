@@ -125,8 +125,6 @@ val developer = Developer(
 
 </div>
 
-
-
 ---
 
 ## 🌟 Skills & Expertise
