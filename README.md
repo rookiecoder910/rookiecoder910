@@ -122,9 +122,9 @@ val developer = Developer(
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=cropsense&theme=tokyonight&hide_border=true)](https://github.com/rookiecoder910/cropsense)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=cropsense-android&theme=tokyonight&hide_border=true&cache_seconds=21600)](https://github.com/rookiecoder910/cropsense-android)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=emedibot&theme=tokyonight&hide_border=true)](https://github.com/rookiecoder910/emedibot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=emedibot&theme=tokyonight&hide_border=true&cache_seconds=21600)](https://github.com/rookiecoder910/emedibot)
 
 </div>
 
