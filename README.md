@@ -116,14 +116,19 @@ val developer = Developer(
 
 ---
 
+
+
 ## 🎨 Featured Projects
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=cropsense&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD)](https://github.com/rookiecoder910/cropsense)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=emedibot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6A5ACD)](https://github.com/rookiecoder910/emedibot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=cropsense&theme=tokyonight&hide_border=true)](https://github.com/rookiecoder910/cropsense)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rookiecoder910&repo=emedibot&theme=tokyonight&hide_border=true)](https://github.com/rookiecoder910/emedibot)
 
 </div>
+
+
 
 ---
 
