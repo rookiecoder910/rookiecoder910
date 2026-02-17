@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Manas Kumar Yadav....
+# 👋 Hi, I'm Manas Kumar Yadav...
 
 ### 🚀 Android Developer | Kotlin Enthusiast | AI Explorer
 
